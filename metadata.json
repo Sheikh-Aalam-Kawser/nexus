@@ -1,0 +1,8 @@
+{
+  "name": "AI Task Manager & Scheduler",
+  "description": "A multi-agent productivity assistant that decomposes complex tasks, schedules focus blocks, analyzes performance, and processes voice commands using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
